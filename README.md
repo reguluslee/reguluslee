@@ -9,7 +9,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<a href="https://github.com/reguluslee/github-readme-stats">
+<a href="https://github.com/reguluslee">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=reguluslee" />
 </a>
 <a href="https://github.com/reguluslee/convoychat">
