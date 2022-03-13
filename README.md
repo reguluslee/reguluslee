@@ -10,8 +10,8 @@
 - ⚡ Fun fact: ...
 
 <a href="https://github.com/reguluslee/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=reguluslee&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=reguluslee" />
 </a>
 <a href="https://github.com/reguluslee/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=reguluslee&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reguluslee&layout=compact" />
 </a>
