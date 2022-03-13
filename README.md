@@ -9,5 +9,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Leonard's GitHub stats](https://github-readme-stats.vercel.app/api?username=reguluslee)](https://github.com/reguluslee/github-readme-stats)
+[![Leonard's GitHub stats](https://github-readme-stats.vercel.app/api?username=reguluslee&show_icons=true&theme=radical)](https://github.com/reguluslee/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reguluslee)](https://github.com/reguluslee/github-readme-stats)
