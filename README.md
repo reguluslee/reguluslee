@@ -10,7 +10,7 @@
 - ⚡ Fun fact: ...
 
 <a href="https://github.com/reguluslee">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=reguluslee" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=reguluslee&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" />
 </a>
 <a href="https://github.com/reguluslee/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reguluslee&layout=compact" />
