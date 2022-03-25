@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning power control
+- 🌱 I’m currently learning robot control
 - 👯 I’m looking to collaborate on algorithm
 - 🤔 I’m looking for help with algorithm design
 - 💬 Ask me about power control
