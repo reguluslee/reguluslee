@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning robot control
 - 👯 I’m looking to collaborate on algorithm
 - 🤔 I’m looking for help with algorithm design
-- 💬 Ask me about power control
+- 💬 Ask me about robot control
 - 📫 How to reach me: reguluslee@foxmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
