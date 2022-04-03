@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning robot control
-- 👯 I’m looking to collaborate on algorithm
+- 👯 I’m looking to collaborate on embedded development
 - 🤔 I’m looking for help with algorithm design
-- 💬 Ask me about robot control
+- 💬 Ask me about embedded development
 - 📫 How to reach me: reguluslee@foxmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
