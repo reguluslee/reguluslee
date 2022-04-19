@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning robot control
+- 🔭 I’m currently working on Communication Engineering
+- 🌱 I’m currently learning Navigation Guidance and Control
 - 👯 I’m looking to collaborate on embedded development
 - 🤔 I’m looking for help with algorithm design
 - 💬 Ask me about embedded development
