@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on embedded development
 - 🤔 I’m looking for help with algorithm design
 - 💬 Ask me about embedded development
-- 📫 How to reach me: reguluslee@foxmail.com
+- 📫 How to reach me: lifzcn@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
